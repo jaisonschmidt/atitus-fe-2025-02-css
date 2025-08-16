@@ -1,4 +1,4 @@
-main {
+main {  
     background-color: #fbfbfb;
     border-radius: 10px;
     box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.75);
@@ -7,4 +7,16 @@ main {
     padding: 20px;
     text-align: center;
     max-width: 400px;
+}
+
+.foto {
+    width: 120px;
+}
+
+.btn {
+    background-color: #287EA9;
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
 }
